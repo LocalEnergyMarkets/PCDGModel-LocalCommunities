@@ -4,13 +4,19 @@ Here is a step-by-step guide how to use the PCDG stand-alone application:
 
 1) Access the github repository at https://github.com/LocalEnergyMarkets/PCDGModel-LocalCommunities
 
+------------------------------------
+
 2) For non-MATLAB users, download MATLAB Runtime from the link provided in the Step 1 folder.
 After MATLAB Runtime download is complete, continue with next step. 
 
+------------------------------------
+
 3) For users with MATLAB already installed, download the PCDG.exe file from the Step 2 folder.
 
+------------------------------------
+
 4) Running Example Use Case
-===============================
+
 Once PCDG.exe is successfully running, there are several pages to get familiar with:
 
 	a) Home  
@@ -65,9 +71,10 @@ Once PCDG.exe is successfully running, there are several pages to get familiar w
 	before running a new simulation if you intend to compare them.
 
 
+------------------------------------
 
 5) Developing Unique Input Data
-==============================
+
 Once the user is familiar with the features of the software using the given data, the input data file can be changed to meet 
 the user's simulation needs. The input data template is split into several different tabs:
 
