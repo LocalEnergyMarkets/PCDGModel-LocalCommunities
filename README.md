@@ -93,8 +93,8 @@ A technical user manual with visual guides is currently under development and wi
 
 Underlying file notes:
 
-# PCDGModel-LocalCommunities
-# CommunityBasedP2P.m is the main mfile that loads the input data and passes it to the P2P.m function. 
-# One should read the demand, price, solar, and wind profiles for the considered period. 
-# The batteries can be included for each house by setting the corresponding element of BatteryPlace to one and vice versa. 
-# The initial state of charge of each battery is set in the Sp0 vector.
+PCDGModel-LocalCommunities
+CommunityBasedP2P.m is the main mfile that loads the input data and passes it to the P2P.m function. 
+One should read the demand, price, solar, and wind profiles for the considered period. 
+The batteries can be included for each house by setting the corresponding element of BatteryPlace to one and vice versa. 
+The initial state of charge of each battery is set in the Sp0 vector.
