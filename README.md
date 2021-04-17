@@ -90,7 +90,7 @@ the user's simulation needs. The input data template is split into several diffe
 	e) Grid Tariff represents the feed-in tariff price for renewables per time period.
 
 IMPORTANT: Make sure that all the time steps match up for each tab. The application will not run if any of them do not match.
-Feel free to play around with the data provided in "9 Month UK Dataset for 25 Houses", or utilize your own data.
+Feel free to play around with the data provided in "P2P Data Input for 9 months", or utilize your own data.
 
 ------------------------------------
 
